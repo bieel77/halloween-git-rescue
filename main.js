@@ -7,3 +7,8 @@ function startServer() {
 }
 
 startServer();
+// Security system (1/2): motion sensors
+function activateMotionSensors() {
+  console.log("Motion sensors: ONLINE");
+}
+activateMotionSensors();
