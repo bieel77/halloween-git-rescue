@@ -12,3 +12,9 @@ function activateMotionSensors() {
   console.log("Motion sensors: ONLINE");
 }
 activateMotionSensors();
+
+// Security system (2/2): server room access control
+function lockServerRoom() {
+  console.log("Server room doors: LOCKED");
+}
+lockServerRoom();
