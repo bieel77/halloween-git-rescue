@@ -76,7 +76,7 @@ Després:
 ```bash
 git add README.md bloc1.md bloc2.md bloc3.md captures/
 git commit -m "docs: afegeix la documentació de la pràctica"
-git remote add origin https://github.com/EL_TEU_USUARI/halloween-git-rescue.git
+git remote add origin https://github.com/bieel77/halloween-git-rescue.git
 git remote -v
 git push -u origin main
 git push origin feature-nightmare feature-sanctuary

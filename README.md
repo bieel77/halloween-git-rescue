@@ -50,5 +50,5 @@ halloween-git-rescue/
 ├── bloc1.md       # Documentació del Bloc 1
 ├── bloc2.md       # Documentació del Bloc 2
 ├── bloc3.md       # Documentació del Bloc 3
-└── capturas/      # Captures de pantalla de la terminal (evidències)
+└── captures/      # Captures de pantalla de la terminal (evidències)
 ```
