@@ -1,6 +1,6 @@
 // main.js - Server Room Control System
 const SERVER_NAME = "prod-server-01";
-const securityMode = "standard";
+const securityMode = "nightmare";
 
 function startServer() {
   console.log("Starting " + SERVER_NAME + " in " + securityMode + " mode");
